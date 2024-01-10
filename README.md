@@ -72,9 +72,5 @@
 본 프로젝트 뿐만 아니라 "레벨업 리액트 프로그래밍 with Next.js" 책에 대한 모든 질문과 답변은 [https://reactnext-central.xyz/levelup](https://reactnext-central.xyz/levelup) 웹 페이지에서 진행됩니다. 이 페이지를 통해 궁금한 점을 해결하고 다른 사용자들과 지식을 공유할 수 있습니다.
 
 
-## 라이선스 및 저작권 정보
-본 프로젝트는 MIT 라이선스 하에 제공됩니다. 자세한 내용은 `license.md` 파일을 참조하세요.
-
-
 ## 참고 자료
 본 "LevelUp-React" 프로젝트는 [Vercel의 app-playground](https://github.com/vercel/app-playground) 프로젝트에서 중요한 영감을 받았습니다. 원본 프로젝트가 영어로 되어 있었지만 이를 한글로 전환하여 더 많은 한국어 사용자들이 쉽게 접근하고 이해할 수 있도록 했습니다. 또한, Next.js의 핵심 개념과 기능을 보다 명확하게 파악할 수 있도록 코드를 간결화하고 구조를 재정립하였습니다. 이러한 노력은 Next.js를 처음 접하는 사용자에게 더 친숙하고 이해하기 쉬운 경험을 제공하고자 하는 우리의 목표를 반영합니다.
