@@ -3,7 +3,7 @@ import { Inter } from 'next/font/google'
 import '@/styles/globals.css'
 import { GlobalNav } from '@/ui/global-nav'
 import { AddressBar } from '@/ui/address-bar'
-import { WebVitals } from '@/app/api/analytics/web-vitals';
+// import { WebVitals } from '@/app/api/analytics/web-vitals';
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -35,7 +35,7 @@ export default function RootLayout({
             </div>
           </div>
         </div>
-        <WebVitals />
+        {/* <WebVitals /> */}
       </body>
     </html>
   )
