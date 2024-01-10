@@ -1,5 +1,6 @@
 
-## LevelUp-React-with-Nextjs: 프로젝트 소개
+# LevelUp-React-with-Nextjs
+## 프로젝트 소개
 "LevelUp-React-with-Nextjs"는 Next.js를 사용하여 라우팅 및 렌더링에 대한 다양한 기법을 탐구하고 시현하는 예제 프로젝트입니다. 이 프로젝트는 Next.js의 다양한 기능을 활용하여 현대적인 웹 애플리케이션 개발의 핵심 측면을 심도 있게 다루고 있습니다.
 
 ## 라이브 데모
@@ -76,4 +77,4 @@
 본 프로젝트는 MIT 라이선스 하에 제공됩니다. 자세한 내용은 `license.md` 파일을 참조하세요.
 
 ## 참고 자료
-본 "LevelUp-React" 프로젝트는 [Vercel의 app-playground](https://github.com/vercel/app-playground) 프로젝트에서 중요한 영감을 받았습니다. 원본 프로젝트가 영어로 되어 있었지만 이를 한글로 전환하여 더 많은 한국어 사용자들이 쉽게 접근하고 이해할 수 있도록 했습니다. 또한, Next.js의 핵심 개념과 기능을 보다 명확하게 파악할 수 있도록 코드를 간결화하고 구조를 재정립하였습니다. 이러한 노력은 Next.js를 처음 접하는 사용자에게 더 친숙하고 이해하기 쉬운 경험을 제공하고자 하는 우리의 목표를 반영합니다.
+본 "LevelUp-React-with-Nextjs" 프로젝트는 [Vercel의 app-playground](https://github.com/vercel/app-playground) 프로젝트에서 중요한 영감을 받았습니다. 원본 프로젝트가 영어로 되어 있었지만 이를 한글로 전환하여 더 많은 한국어 사용자들이 쉽게 접근하고 이해할 수 있도록 했습니다. 또한, Next.js의 핵심 개념과 기능을 보다 명확하게 파악할 수 있도록 코드를 간결화하고 구조를 재정립하였습니다. 이러한 노력은 Next.js를 처음 접하는 사용자에게 더 친숙하고 이해하기 쉬운 경험을 제공하고자 하는 우리의 목표를 반영합니다.
